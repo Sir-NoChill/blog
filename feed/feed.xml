@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Talking to Rocks: A Blog</title>
+  <subtitle>The gripes and musings of a man who talks to rocks... for a living...</subtitle>
+  <link href="https://blog.blobfish.icu/eleventy-base-blog/feed/feed.xml" rel="self" />
+  <link href="https://blog.blobfish.icu/eleventy-base-blog/" />
+  <updated>2025-10-22T14:49:37Z</updated>
+  <id>https://blog.blobfish.icu/eleventy-base-blog/</id>
+  <author>
+    <name>Ayrton Chilibeck</name>
+  </author>
+</feed>
