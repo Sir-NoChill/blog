@@ -38,7 +38,7 @@ jobs:
           node-version: "20"
           
       - name: Build Site
-        run: npx @11ty/eleventy --serve
+        run: npx @11ty/eleventy
         
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
