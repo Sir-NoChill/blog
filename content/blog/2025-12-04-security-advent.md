@@ -5,7 +5,7 @@ date: 2025-12-04
 tags: [cybersecurity]
 ---
 
-On the third cyber-mas day my true love gave to me: a clean file-tree
+On the fourth cyber-mas day my true love gave to me: a clean file-tree
 an antivirus scan, a
 key rotation and a
 clean cache with no more cooooooo-kiiiiiiiiiiiiiies
