@@ -1,7 +1,7 @@
 ---
 title: "Advent of Security: Day 3 - Antivirus Scan"
 description: Talking to Rocks, post 4.
-date: 2025-12-02
+date: 2025-12-03
 tags: [cybersecurity]
 ---
 
